@@ -59,6 +59,7 @@ class FastAPI(Starlette):
 
     app = FastAPI()
     ```
+    Adding this line for diff.
     """
 
     def __init__(
